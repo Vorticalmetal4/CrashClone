@@ -5,10 +5,10 @@ Developed with Unreal Engine 5
 ## Notes
 Don't forget to add the Starter Content folder from Unreal Engine
 
-## Controls
+## Inputs
 
-A (Gamepad) / Space Bar - Jump
+- A (Gamepad) / Space Bar: Jump
 
-RT / R - Switch between dimensions
+- RT / R: Switch between dimensions
 
-X (Gamepad) / E - Spin
+- X (Gamepad) / E: Spin
